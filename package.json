@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^12.8.3",
     "@types/jest": "^26.0.24",
     "@types/node": "^12.20.55",
-    "axios": "^1.6.0",
+    "axios": "^1.7.8",
     "flow-bin": "^0.188.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
